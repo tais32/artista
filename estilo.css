@@ -1,0 +1,79 @@
+"body"{display:flex;
+justify-content: center;
+font:verdana;}
+
+#contain {
+width:900px}
+
+#cabecalho{
+display:flex;
+justify-content:"spacebetween";
+align-items }
+
+#logo{
+height:80px;}
+#menu{
+list-style:none;}
+
+class="item-menu"{
+display: inline;
+margin-left: 20px;
+background-color: #1D5ABD;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 20px;
+padding-top: 10px;}
+
+class="link-menu"{
+color:"with";
+text-decoration:none ;}
+
+#conteudo{margin-top: 10px;}
+"h1,h2"{font-family: "Gill Sans";
+color: #333333;}
+
+#principal{ display: flex;
+background-color:#EBD821 ;}
+
+#descricao{padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px; ;
+text-align: justify;}
+
+#portifolio{display:flex;
+justify-content:"space-between" ;
+align-items}
+
+#link-port{ text-align: center;
+color:"with";
+text-decoration: none;
+background-color: #00A178;
+padding-left:120px ;
+padding-right: 120px;
+padding-top: 50px;
+padding-bottom: 50px; 
+margin-top: 10px;}
+
+#rodape{margin-top: 10px;
+background-color: #1D5ABD;
+color: "with";
+display: flex;
+justify-content:'space-between';
+text-align: center;
+align-items: ;}
+ 
+ class="p-rodape "{
+ width: 300px}
+ 
+ class= "link-rodape"{
+ background-color:"whit"
+ padding-bottom: 5px;
+ padding-left: 5px;
+ padding-right: 5px;
+ padding-top: 5px;
+ margin-bottom: 5px;
+ margin-left: 5px;
+ margin-right: 5px;
+ margin-top: 5px;
+ color: #1D5ABD;  
